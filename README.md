@@ -1,4 +1,4 @@
-### Information
+# Information
 
 This is my first time working with the React Library.
 To learn about it, I decided to make this text/code editor website. It includes most of the basic features of a terminal like code editor such as creating new lines, indenting with tab, etc. It also plays an audio clip each time a line is created or deleted.
